@@ -276,6 +276,7 @@ repositories = [
   'github.com/GoogleContainerTools/skaffold',
   'github.com/googleforgames/agones',
   'github.com/gophish/gophish',
+  'github.com/gophercloud/gophercloud',
   'github.com/goreleaser/goreleaser',
   'github.com/gpbl/react-day-picker',
   'github.com/grafana/loki',
